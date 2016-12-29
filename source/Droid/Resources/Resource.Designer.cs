@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("Droid.Resource", IsApplication=false)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("g0rdan.MvxPlugin.AlertDialog.Droid.Resource", IsApplication=false)]
 
-namespace Droid
+namespace g0rdan.MvxPlugin.AlertDialog.Droid
 {
 	
 	
